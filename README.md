@@ -83,6 +83,7 @@ title("circular convolution");
 ## OUTPUT (Circular Convolution): 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/abae1de1-0df8-4e23-98c5-ff8120b65798" />
 
+
 ## RESULT: 
 
 Thus, the linear convolution and circular convolution of the two given sequences were performed and its result was verified.
